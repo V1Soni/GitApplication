@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="7de69102472e711025dcb3ee436d435a" label="Git Test " max_length="40" name="x_736469_gitapplic_git_test" type="collection">
+        <element label="Git Repository Name" max_length="40" name="git_repository_name" type="string"/>
+        <element label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>
